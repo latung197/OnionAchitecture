@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+GPSKvCrXH9MLdOYXbYco4nryLemTTifqEt4ri78QSGPJTN8pPp0uJF8P+mdDanEXuT/MXG6uK49WKWOsDJvVA==",
+  "dgSpecHash": "wdIEbIUcWZz/AKKdOLDBc776RsVEn6pyabA28eghD5nx9kjO6hGFoEorT+9j/Q4kGFp0ph+xIAjySBja8ExGtg==",
   "success": true,
-  "projectFilePath": "D:\\Tài Liệu\\Source\\OnionArchitecture\\Domain\\Domain.csproj",
+  "projectFilePath": "D:\\Tài Liệu\\Source\\OnionAchitecture\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

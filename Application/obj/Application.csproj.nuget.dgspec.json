@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Tài Liệu\\Source\\OnionArchitecture\\Application\\Application.csproj": {}
+    "D:\\Tài Liệu\\Source\\OnionAchitecture\\Application\\Application.csproj": {}
   },
   "projects": {
-    "D:\\Tài Liệu\\Source\\OnionArchitecture\\Application\\Application.csproj": {
+    "D:\\Tài Liệu\\Source\\OnionAchitecture\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Tài Liệu\\Source\\OnionArchitecture\\Application\\Application.csproj",
+        "projectUniqueName": "D:\\Tài Liệu\\Source\\OnionAchitecture\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "D:\\Tài Liệu\\Source\\OnionArchitecture\\Application\\Application.csproj",
+        "projectPath": "D:\\Tài Liệu\\Source\\OnionAchitecture\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\Coasia_MI_Laptop\\.nuget\\packages\\",
-        "outputPath": "D:\\Tài Liệu\\Source\\OnionArchitecture\\Application\\obj\\",
+        "outputPath": "D:\\Tài Liệu\\Source\\OnionAchitecture\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Coasia_MI_Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "D:\\Tài Liệu\\Source\\OnionArchitecture\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\Tài Liệu\\Source\\OnionArchitecture\\Domain\\Domain.csproj"
+              "D:\\Tài Liệu\\Source\\OnionAchitecture\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Tài Liệu\\Source\\OnionAchitecture\\Domain\\Domain.csproj"
               }
             }
           }
@@ -76,14 +76,14 @@
         }
       }
     },
-    "D:\\Tài Liệu\\Source\\OnionArchitecture\\Domain\\Domain.csproj": {
+    "D:\\Tài Liệu\\Source\\OnionAchitecture\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Tài Liệu\\Source\\OnionArchitecture\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Tài Liệu\\Source\\OnionAchitecture\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\Tài Liệu\\Source\\OnionArchitecture\\Domain\\Domain.csproj",
+        "projectPath": "D:\\Tài Liệu\\Source\\OnionAchitecture\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Coasia_MI_Laptop\\.nuget\\packages\\",
-        "outputPath": "D:\\Tài Liệu\\Source\\OnionArchitecture\\Domain\\obj\\",
+        "outputPath": "D:\\Tài Liệu\\Source\\OnionAchitecture\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Coasia_MI_Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",

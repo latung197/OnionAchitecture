@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VY/Ggmm2tbPwTKJ9NoVsc1oDnelgLP1v9t3FxxjWaM8V+JlF00ljUlufQq6tZeejOBiD1xMrYYjPSbmLBUJjBw==",
+  "dgSpecHash": "BL0tq42t8mJn8Aa9rnQhWOFYvLkLV7ZCsB4CbRp+ai4GYNj7ZMGTT7468kqLQx7PMbD8ij2YOqSfcoOa0UYTZw==",
   "success": true,
-  "projectFilePath": "D:\\Tài Liệu\\Source\\OnionArchitecture\\Persistence\\Persistence.csproj",
+  "projectFilePath": "D:\\Tài Liệu\\Source\\OnionAchitecture\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

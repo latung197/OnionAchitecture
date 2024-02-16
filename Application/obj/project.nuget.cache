@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b7oiK9hsyVgLjeNzJTph3tyj8KLW72RrhmluUne17RqRLzD+EA45+GZK5lWPAxx25rl7/L2DZWT2xH0u3AkfGw==",
+  "dgSpecHash": "T8FeqqV3xAxnA4gn7cTw/FBcv5ay8x2hFMQBX5pJJBr9pzAbHlZb7tV36dq+sQd7QcGSwDJ3evPT0JZQBsV52g==",
   "success": true,
-  "projectFilePath": "D:\\Tài Liệu\\Source\\OnionArchitecture\\Application\\Application.csproj",
+  "projectFilePath": "D:\\Tài Liệu\\Source\\OnionAchitecture\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Coasia_MI_Laptop\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
     "C:\\Users\\Coasia_MI_Laptop\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",

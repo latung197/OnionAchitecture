@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IA6hDMZmBG/H4hHpH77egu4tUER7YhJ2Mc6UBwwjoFIFo7zmkHdLsKoSOQMY71zKoMFBdjFMDKivdXtII74WdQ==",
+  "dgSpecHash": "VUb9J3Nc48TiG5+Y0Ca4esx/WPFgsUT53bIGmxn82+AkAEjaVTVtjQsImLqgBEoZr+g0RLL4DS+7ltnxv+nZXw==",
   "success": true,
-  "projectFilePath": "D:\\Tài Liệu\\Source\\OnionArchitecture\\WebApi\\WebApi.csproj",
+  "projectFilePath": "D:\\Tài Liệu\\Source\\OnionAchitecture\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Coasia_MI_Laptop\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Coasia_MI_Laptop\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
