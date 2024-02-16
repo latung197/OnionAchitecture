@@ -8,15 +8,15 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Application.Features.ProductFeatures.Queries
+namespace Application.Features.ProductFeatures.Commands
 {
-    public class DeleteProductByIdCommand: IRequest<int>
+    public class DeleteProductByIdCommand : IRequest<int>
     {
-        public int Id { get; set; } 
-        public class DeleteProductByIdCommandHandler: IRequestHandler<DeleteProductByIdCommand, int>
+        public int Id { get; set; }
+        public class DeleteProductByIdCommandHandler : IRequestHandler<DeleteProductByIdCommand, int>
         {
             private readonly IApplicationDbContext _context;
-            public DeleteProductByIdCommandHandler (IApplicationDbContext context)
+            public DeleteProductByIdCommandHandler(IApplicationDbContext context)
             {
                 _context = context;
             }
