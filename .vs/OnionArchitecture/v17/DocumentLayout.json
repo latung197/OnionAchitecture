@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\OnionAchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{655D6948-5E27-4464-8446-274308E5C2FB}|Application\\Application.csproj|d:\\project\\onionachitecture\\application\\features\\productfeatures\\commands\\deleteproductbyidcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655D6948-5E27-4464-8446-274308E5C2FB}|Application\\Application.csproj|solutionrelative:application\\features\\productfeatures\\commands\\deleteproductbyidcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{655D6948-5E27-4464-8446-274308E5C2FB}|Application\\Application.csproj|d:\\project\\onionachitecture\\application\\features\\productfeatures\\commands\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655D6948-5E27-4464-8446-274308E5C2FB}|Application\\Application.csproj|solutionrelative:application\\features\\productfeatures\\commands\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{655D6948-5E27-4464-8446-274308E5C2FB}|Application\\Application.csproj|d:\\project\\onionachitecture\\application\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655D6948-5E27-4464-8446-274308E5C2FB}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC2BE5F-6348-49EE-92AD-3C672B543D1E}|Domain\\Domain.csproj|d:\\project\\onionachitecture\\domain\\iaudittable\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC2BE5F-6348-49EE-92AD-3C672B543D1E}|Domain\\Domain.csproj|solutionrelative:domain\\iaudittable\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC2BE5F-6348-49EE-92AD-3C672B543D1E}|Domain\\Domain.csproj|d:\\project\\onionachitecture\\domain\\entity\\product .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC2BE5F-6348-49EE-92AD-3C672B543D1E}|Domain\\Domain.csproj|solutionrelative:domain\\entity\\product .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{655D6948-5E27-4464-8446-274308E5C2FB}|Application\\Application.csproj|d:\\project\\onionachitecture\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{655D6948-5E27-4464-8446-274308E5C2FB}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeleteProductByIdCommand.cs",
+              "DocumentMoniker": "D:\\Project\\OnionAchitecture\\Application\\Features\\ProductFeatures\\Commands\\DeleteProductByIdCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\ProductFeatures\\Commands\\DeleteProductByIdCommand.cs",
+              "ToolTip": "D:\\Project\\OnionAchitecture\\Application\\Features\\ProductFeatures\\Commands\\DeleteProductByIdCommand.cs",
+              "RelativeToolTip": "Application\\Features\\ProductFeatures\\Commands\\DeleteProductByIdCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T16:47:11.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Project\\OnionAchitecture\\Application\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IApplicationDbContext.cs",
+              "ToolTip": "D:\\Project\\OnionAchitecture\\Application\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T16:47:11.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateProductCommand.cs",
+              "DocumentMoniker": "D:\\Project\\OnionAchitecture\\Application\\Features\\ProductFeatures\\Commands\\CreateProductCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\ProductFeatures\\Commands\\CreateProductCommand.cs",
+              "ToolTip": "D:\\Project\\OnionAchitecture\\Application\\Features\\ProductFeatures\\Commands\\CreateProductCommand.cs",
+              "RelativeToolTip": "Application\\Features\\ProductFeatures\\Commands\\CreateProductCommand.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwB8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T16:47:11.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "D:\\Project\\OnionAchitecture\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "D:\\Project\\OnionAchitecture\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-17T16:47:11.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product .cs",
+              "DocumentMoniker": "D:\\Project\\OnionAchitecture\\Domain\\Entity\\Product .cs",
+              "RelativeDocumentMoniker": "Domain\\Entity\\Product .cs",
+              "ToolTip": "D:\\Project\\OnionAchitecture\\Domain\\Entity\\Product .cs",
+              "RelativeToolTip": "Domain\\Entity\\Product .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T16:47:11.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Project\\OnionAchitecture\\Domain\\IAudittable\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Domain\\IAudittable\\BaseEntity.cs",
+              "ToolTip": "D:\\Project\\OnionAchitecture\\Domain\\IAudittable\\BaseEntity.cs",
+              "RelativeToolTip": "Domain\\IAudittable\\BaseEntity.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T16:47:11.642Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
