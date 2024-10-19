@@ -1,1 +1,7 @@
 /WebApi/bin
+/WebApi/obj
+/Application/bin
+/Application/obj
+/Domain/bin
+/Domain/obj
+/Persistence/bin
